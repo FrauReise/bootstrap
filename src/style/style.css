@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    margin: 8%;
+    padding: 5%;
+    background: rgba(228, 228, 228, 0.79);
+}
+
+.main_title {
+    text-align: start;
+    font-size: 4em;
+}
+
+
